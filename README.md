@@ -25,7 +25,7 @@ ros2 run r2r_minimal_action_server r2r_minimal_action_server
 [新しい端末で]
 ``` sh
 . install/setup.sh
-ros2 run r2r_minimal_action_server r2r_minimal_action_server
+ros2 run r2r_minimal_action_client r2r_minimal_action_client
 ```
 
 
