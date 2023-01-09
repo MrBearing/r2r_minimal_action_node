@@ -3,7 +3,7 @@
 [このリポジトリ](https://github.com/m-dahl/r2r_minimal_node)を参考に、r2rのアクションサーバーとクライアントをcolconでビルドできるようにしました。
 
 ## colconでビルドする
-ビルドは以下の通りです
+ビルド方法は以下の通りです
 
 ``` sh
 
@@ -15,6 +15,7 @@ colcon build
 ```
 
 ## 実行方法
+実行方法は以下の通りです。
 
 ``` sh
 . install/setup.sh
